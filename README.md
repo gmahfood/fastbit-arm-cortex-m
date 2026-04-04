@@ -12,23 +12,22 @@ Notes, exercises, and code from FastBit Embedded Brain Academy's ARM Cortex-M3/M
 ## Progress
 
 ### Section 1: Introduction
-- [ ] Course overview
-- [ ] Setting up STM32CubeIDE
+- [x] Lecture: Motivation, why use ARM
+- [x] Lecture: Processor vs. Processor Core 
+- [ ] Lecture: Processor vs. Microcontroller
 
-### Section 2: Hardware and Tools
-- [ ] STM32 board overview
-- [ ] IDE setup and first project
+### Section 2: Hardware/Software Requirements
+- [ ] Hardware/Software Requirements
 
-### Section 3: ARM Cortex-M Internals
-- [ ] Operational modes and access levels
-- [ ] Registers and the programmer model
-- [ ] Memory map and bus interfaces
+### Section 3: IDE Installation
+- [ ] Optimizing for VSCode in my specific use case
+- [ ] Embedded Target
 
-### Section 4: Interrupts and Exceptions
-- [ ] NVIC overview
-- [ ] Interrupt configuration
-- [ ] IRQ handlers and priorities
-- [ ] System exceptions
+### Section 4: Embedded Hello World
+- [ ] Create HelloWorld project
+- [ ] Printf using SWV
+- [ ] Testing HelloWorld
+- [ ] Printf using semihosting
 
 ### Section 5: Bare Metal Programming
 - [ ] Writing a linker script from scratch
