@@ -13,6 +13,8 @@ Understand the difference between the processor core, processor, and microcontro
 
 # Notes
 
+![[stm32f407-system-architecture.jpeg]]
+
 - ARM released the Technical Reference Manual or the TRM to the market (Open to all users)
 - Check functional description diagram to review the processor structure of the Cortex-M4 (Or any other ARM processor)
 - The processor itself is simply a processor core surrounded by supporting peripherals. 
@@ -21,6 +23,8 @@ Understand the difference between the processor core, processor, and microcontro
 - The Processor core is also known as the CPU (Central Processor Unit)
 - A processor is the core + peripherals.
 - The processor talks to the outside world using various BUS interfaces — ICode BUS interface, DCode BUS interface, and System BUS interface to name a few.
+
+![[stm32f407-functional-overview.jpeg]]
 
 ---
 

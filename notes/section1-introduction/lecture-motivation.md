@@ -1,5 +1,7 @@
 # Lecture MOTIVATION
 
+![[stm32f4-development-board.jpeg]]
+
 **Date:** 3 Apr 2026
 
 ---
