@@ -1,7 +1,7 @@
 
 # Embedded Systems Programming on ARM Cortex-M3/M4 Processor
 
-![[stm32-nucleo-board-example.jpeg]]
+![STM32 Board](assets/stm32-nucleo-board.jpg)
 
 Notes, exercises, and code from FastBit Embedded Brain Academy's ARM Cortex-M3/M4 course on Udemy.
 
