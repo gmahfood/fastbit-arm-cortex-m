@@ -21,6 +21,7 @@ Notes, exercises, and code from FastBit Embedded Brain Academy's ARM Cortex-M3/M
 ### Section 2: Hardware/Software Requirements
 - [x] Downloading: STM32CubeIDE and VSCode Extension
 - [x] Lecture: Embedded Target for this Course
+- [x] Documents: User Manuals, Datasheets, Images, and Schematics 
 
 ### Section 3: IDE Installation
 - [ ] Optimizing for VSCode in my specific use case
