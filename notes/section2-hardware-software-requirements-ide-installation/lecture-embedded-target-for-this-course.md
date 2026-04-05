@@ -46,5 +46,5 @@
 
 ## Summary
 
-### The course uses the STM32F407VGT6 Discovery board as its target hardware. It's an ARM Cortex-M4 running at up to 168 MHz with 512 KB of flash and 192 KB of RAM, packed with peripherals including GPIO, USART, SPI, I2C, ADC, DAC, and timers. The board includes an onboard ST-LINK/V2-A debugger that installs automatically with STM32CubeIDE, making programming and debugging straightforward. You purchased a compatible Amazon alternative and will need a USB-C to USB-C cable to connect it.
+### The course uses the STM32F407VGT6 Discovery board as its target hardware. It's an ARM Cortex-M4 running at up to 168 MHz with 512 KB of flash and 192 KB of RAM, packed with peripherals including GPIO, USART, SPI, I2C, ADC, DAC, and timers. The board includes an onboard ST-LINK/V2-A debugger that installs automatically with STM32CubeIDE, making programming and debugging straightforward. I purchased a compatible Amazon alternative and will need a USB-C to USB-A cable to connect it.
 
