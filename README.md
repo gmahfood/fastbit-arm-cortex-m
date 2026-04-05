@@ -6,7 +6,7 @@ Notes, exercises, and code from FastBit Embedded Brain Academy's ARM Cortex-M3/M
 **Platform:** Udemy  
 **Hardware:** STM32 Nucleo (ARM Cortex-M4)  
 **Tooling:** STM32CubeIDE, VS Code, Obsidian
-![[stm32-nucleo-board.jpeg|299]]
+
 ---
 
 ## Progress
