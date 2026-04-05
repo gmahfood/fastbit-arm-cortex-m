@@ -14,10 +14,10 @@ Notes, exercises, and code from FastBit Embedded Brain Academy's ARM Cortex-M3/M
 ### Section 1: Introduction
 - [x] Lecture: Motivation, why use ARM
 - [x] Lecture: Processor vs. Processor Core 
-- [ ] Lecture: Processor vs. Microcontroller
 
 ### Section 2: Hardware/Software Requirements
-- [ ] Hardware/Software Requirements
+- [x] Downloading: STM32CubeIDE and VSCode Extension
+- [x] Lecture: Embedded Target for this Course
 
 ### Section 3: IDE Installation
 - [ ] Optimizing for VSCode in my specific use case

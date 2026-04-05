@@ -8,6 +8,8 @@
 
 Most Manufactures love to use ARM Cortex M processor because of the minimal cost, minimal power, and minimal silicon area.
 
+---
+
 ## Notes
 
 - RTOS Friendly
@@ -26,16 +28,22 @@ Most Manufactures love to use ARM Cortex M processor because of the minimal cost
 
 - Competitors: AVR based MCUs (8/16/32 bit) manufactured by Microchip(Atmel), Arduino; who use microcontrollers based off AVR architecture, & MSP430 MCUs (16bit) by TexasInstruments
 
+---
+
 ## Code Snippets
 
 ```c
 // paste any important code here
 ```
 
+---
+
 ## Questions / Things to Revisit
 
 - [ ] Look up the difference between MPU and FPU
 - [ ] Research what makes ARM's instruction set memory effiecient
+
+---
 
 ## Summary
 
